@@ -1,0 +1,1 @@
+{"settings":{"toolbar_1":"formatselect,bold,italic,blockquote,bullist,numlist,alignleft,aligncenter,alignright,link,unlink,table,fullscreen,undo,redo","toolbar_2":"","toolbar_3":"","toolbar_4":"","options":"","plugins":"table"},"admin_settings":{"options":"","disabled_plugins":""}}
