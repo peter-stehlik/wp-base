@@ -1,4 +1,4 @@
-# WordPress zakladne subory a štruktúra súborov
+# WordPress základné súbory a štruktúra súborov
 Repozitár obsahuje základné súbory a prehľad štruktúry pre bežné, prezentačné WordPress web stránky:
 - jQuery je už definované v functions.php, z HTML šablón môže ísť preč
 - v /js je súbor excerptFirst.js, ktorý sa používa v administrácii, netreba s ním nič robiť, hlavne nemazať
