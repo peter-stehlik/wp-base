@@ -1,4 +1,4 @@
-# WordPress zakladne subory
+# WordPress zakladne subory a štruktúra súborov
 Repozitár obsahuje základné súbory a prehľad štruktúry pre bežné, prezentačné WordPress web stránky:
 - jQuery je už definované v functions.php, z HTML šablón môže ísť preč
 - v /js je súbor excerptFirst.js, ktorý sa používa v administrácii, netreba s ním nič robiť, hlavne nemazať
@@ -8,7 +8,7 @@ Repozitár obsahuje základné súbory a prehľad štruktúry pre bežné, preze
 1. TinyMCE Advanced (do nastavení vložíme obsah súboru tinyMCEconfing.txt)
 2. Advanced Custom Fields
 3. Velvet Blue Update URLs
-4. Better Admin Bar
+4. Better Admin Bar (len pre pohodlnejšiu správu)
 5. Adminimize
 
 ## Pluginy, ktoré používame veľmi často
